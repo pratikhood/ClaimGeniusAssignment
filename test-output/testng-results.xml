@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="28" passed="28">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="182235" started-at="2021-01-17T22:11:43 IST" finished-at="2021-01-17T22:14:45 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="182235" started-at="2021-01-17T22:11:43 IST" finished-at="2021-01-17T22:14:45 IST">
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_check_box">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df]" name="setup" is-config="true" duration-ms="12869" started-at="2021-01-17T22:12:57 IST" finished-at="2021-01-17T22:13:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_checkboxes_labeled_with_profession_are_active_on_webpage()[pri:1, instance:com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df]" name="verify_checkboxes_labeled_with_profession_are_active_on_webpage" duration-ms="163" started-at="2021-01-17T22:13:10 IST" finished-at="2021-01-17T22:13:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_checkboxes_labeled_with_profession_are_active_on_webpage -->
+        <test-method status="PASS" signature="verify_checkboxe_labeled_with_Manual_Tester_is_selected()[pri:2, instance:com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df]" name="verify_checkboxe_labeled_with_Manual_Tester_is_selected" duration-ms="273" started-at="2021-01-17T22:13:10 IST" finished-at="2021-01-17T22:13:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_checkboxe_labeled_with_Manual_Tester_is_selected -->
+        <test-method status="PASS" signature="get_label_of_checkboxes_present_on_webpage()[pri:3, instance:com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df]" name="get_label_of_checkboxes_present_on_webpage" duration-ms="92" started-at="2021-01-17T22:13:11 IST" finished-at="2021-01-17T22:13:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_label_of_checkboxes_present_on_webpage -->
+        <test-method status="PASS" signature="get_label_of_checkboxes_and_check_on_checkbox_label_with_Automation_Tester()[pri:4, instance:com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df]" name="get_label_of_checkboxes_and_check_on_checkbox_label_with_Automation_Tester" duration-ms="156" started-at="2021-01-17T22:13:11 IST" finished-at="2021-01-17T22:13:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_label_of_checkboxes_and_check_on_checkbox_label_with_Automation_Tester -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df]" name="tearDown" is-config="true" duration-ms="806" started-at="2021-01-17T22:13:11 IST" finished-at="2021-01-17T22:13:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_check_box -->
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_dropdown">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="setup" is-config="true" duration-ms="13316" started-at="2021-01-17T22:12:06 IST" finished-at="2021-01-17T22:12:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_selectbox_labeled_with_continents_is_present_on_webpage()[pri:1, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="verify_selectbox_labeled_with_continents_is_present_on_webpage" duration-ms="148" started-at="2021-01-17T22:12:19 IST" finished-at="2021-01-17T22:12:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_selectbox_labeled_with_continents_is_present_on_webpage -->
+        <test-method status="PASS" signature="verify_selectbox_labeled_with_continents_is_active()[pri:2, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="verify_selectbox_labeled_with_continents_is_active" duration-ms="36" started-at="2021-01-17T22:12:19 IST" finished-at="2021-01-17T22:12:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_selectbox_labeled_with_continents_is_active -->
+        <test-method status="PASS" signature="get_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents()[pri:3, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="get_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents" duration-ms="359" started-at="2021-01-17T22:12:19 IST" finished-at="2021-01-17T22:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents -->
+        <test-method status="PASS" signature="get_name_of_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents()[pri:4, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="get_name_of_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents" duration-ms="294" started-at="2021-01-17T22:12:20 IST" finished-at="2021-01-17T22:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_name_of_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents -->
+        <test-method status="PASS" signature="select_any_particular_Continent_present_in_selectbox_labeled_with_Continents()[pri:5, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="select_any_particular_Continent_present_in_selectbox_labeled_with_Continents" duration-ms="348" started-at="2021-01-17T22:12:20 IST" finished-at="2021-01-17T22:12:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_any_particular_Continent_present_in_selectbox_labeled_with_Continents -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982]" name="tearDown" is-config="true" duration-ms="830" started-at="2021-01-17T22:12:20 IST" finished-at="2021-01-17T22:12:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_dropdown -->
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_multi_select_box">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="setup" is-config="true" duration-ms="13974" started-at="2021-01-17T22:13:12 IST" finished-at="2021-01-17T22:13:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_multiselectbox_labeled_with_Selenium_Commands_is_present_on_webpage()[pri:1, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="verify_multiselectbox_labeled_with_Selenium_Commands_is_present_on_webpage" duration-ms="136" started-at="2021-01-17T22:13:26 IST" finished-at="2021-01-17T22:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_multiselectbox_labeled_with_Selenium_Commands_is_present_on_webpage -->
+        <test-method status="PASS" signature="verify_multiselectbox_labeled_with_Selenium_Commands_is_Active()[pri:2, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="verify_multiselectbox_labeled_with_Selenium_Commands_is_Active" duration-ms="29" started-at="2021-01-17T22:13:26 IST" finished-at="2021-01-17T22:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_multiselectbox_labeled_with_Selenium_Commands_is_Active -->
+        <test-method status="PASS" signature="get_total_counts_of_commands_present_in_selectbox_labeled_with_Selenium_Commands()[pri:3, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="get_total_counts_of_commands_present_in_selectbox_labeled_with_Selenium_Commands" duration-ms="241" started-at="2021-01-17T22:13:26 IST" finished-at="2021-01-17T22:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_total_counts_of_commands_present_in_selectbox_labeled_with_Selenium_Commands -->
+        <test-method status="PASS" signature="get_name_of_each_command_of_total_count_present_in_selectbox_labeled_with_Selenium_Commands()[pri:4, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="get_name_of_each_command_of_total_count_present_in_selectbox_labeled_with_Selenium_Commands" duration-ms="225" started-at="2021-01-17T22:13:26 IST" finished-at="2021-01-17T22:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_name_of_each_command_of_total_count_present_in_selectbox_labeled_with_Selenium_Commands -->
+        <test-method status="PASS" signature="select_any_particular_command_present_in_multiselectbox_labeled_with_Seenium_commands()[pri:5, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="select_any_particular_command_present_in_multiselectbox_labeled_with_Seenium_commands" duration-ms="235" started-at="2021-01-17T22:13:26 IST" finished-at="2021-01-17T22:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_any_particular_command_present_in_multiselectbox_labeled_with_Seenium_commands -->
+        <test-method status="PASS" signature="select_multiple_command_present_in_multiselectbox_labeled_with_Seenium_commands()[pri:6, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="select_multiple_command_present_in_multiselectbox_labeled_with_Seenium_commands" duration-ms="2537" started-at="2021-01-17T22:13:26 IST" finished-at="2021-01-17T22:13:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_multiple_command_present_in_multiselectbox_labeled_with_Seenium_commands -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e]" name="tearDown" is-config="true" duration-ms="1750" started-at="2021-01-17T22:13:29 IST" finished-at="2021-01-17T22:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_multi_select_box -->
+      <class name="com.claimgenius.qa.testcases.DDT_Test_case_on_text_box">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.DDT_Test_case_on_text_box@78e67e0a]" name="setup" is-config="true" duration-ms="13488" started-at="2021-01-17T22:13:31 IST" finished-at="2021-01-17T22:13:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_user_able_to_enter_value_in_text_fields(java.lang.String, java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.DDT_Test_case_on_text_box@78e67e0a]" name="verify_user_able_to_enter_value_in_text_fields" duration-ms="495" started-at="2021-01-17T22:13:44 IST" data-provider="DDT_data" finished-at="2021-01-17T22:13:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pratik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hood]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_able_to_enter_value_in_text_fields -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.DDT_Test_case_on_text_box@78e67e0a]" name="tearDown" is-config="true" duration-ms="1044" started-at="2021-01-17T22:13:45 IST" finished-at="2021-01-17T22:13:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.DDT_Test_case_on_text_box -->
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_textbox">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973]" name="setup" is-config="true" duration-ms="14152" started-at="2021-01-17T22:11:43 IST" finished-at="2021-01-17T22:11:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_textbox_labeled_with_First_Name_is_enabled()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973]" name="verify_textbox_labeled_with_First_Name_is_enabled" duration-ms="114" started-at="2021-01-17T22:11:57 IST" finished-at="2021-01-17T22:11:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_textbox_labeled_with_First_Name_is_enabled -->
+        <test-method status="PASS" signature="verify_textbox_labeled_with_First_Name_is_present()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973]" name="verify_textbox_labeled_with_First_Name_is_present" duration-ms="111" started-at="2021-01-17T22:11:58 IST" finished-at="2021-01-17T22:11:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_textbox_labeled_with_First_Name_is_present -->
+        <test-method status="PASS" signature="verify_user_able_to_enter_value_in_textbox_labeled_with_First_Name(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973]" name="verify_user_able_to_enter_value_in_textbox_labeled_with_First_Name" duration-ms="2297" started-at="2021-01-17T22:11:59 IST" data-provider="DDT_data" finished-at="2021-01-17T22:12:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pratik]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_able_to_enter_value_in_textbox_labeled_with_First_Name -->
+        <test-method status="PASS" signature="verify_user_able_to_re_enter_value_in_textbox_labeled_with_First_Name(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973]" name="verify_user_able_to_re_enter_value_in_textbox_labeled_with_First_Name" duration-ms="3463" started-at="2021-01-17T22:12:02 IST" data-provider="DDT_data_new_name" finished-at="2021-01-17T22:12:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_able_to_re_enter_value_in_textbox_labeled_with_First_Name -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973]" name="tearDown" is-config="true" duration-ms="862" started-at="2021-01-17T22:12:05 IST" finished-at="2021-01-17T22:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_textbox -->
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_radio_button">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="setup" is-config="true" duration-ms="13004" started-at="2021-01-17T22:12:42 IST" finished-at="2021-01-17T22:12:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_radio_buttons_are_active_on_webpage()[pri:1, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="verify_radio_buttons_are_active_on_webpage" duration-ms="209" started-at="2021-01-17T22:12:55 IST" finished-at="2021-01-17T22:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_radio_buttons_are_active_on_webpage -->
+        <test-method status="PASS" signature="verify_user_able_to_select_Radio_button_labeled_with_Male()[pri:2, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="verify_user_able_to_select_Radio_button_labeled_with_Male" duration-ms="328" started-at="2021-01-17T22:12:56 IST" finished-at="2021-01-17T22:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_able_to_select_Radio_button_labeled_with_Male -->
+        <test-method status="PASS" signature="verify_user_able_to_select_Radio_button_labeled_with_Female()[pri:3, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="verify_user_able_to_select_Radio_button_labeled_with_Female" duration-ms="175" started-at="2021-01-17T22:12:56 IST" finished-at="2021-01-17T22:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_able_to_select_Radio_button_labeled_with_Female -->
+        <test-method status="PASS" signature="get_labe_of_each_radio_button()[pri:4, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="get_labe_of_each_radio_button" duration-ms="65" started-at="2021-01-17T22:12:56 IST" finished-at="2021-01-17T22:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_labe_of_each_radio_button -->
+        <test-method status="PASS" signature="get_labe_of_each_radio_button_and_select_specific_one()[pri:5, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="get_labe_of_each_radio_button_and_select_specific_one" duration-ms="133" started-at="2021-01-17T22:12:56 IST" finished-at="2021-01-17T22:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_labe_of_each_radio_button_and_select_specific_one -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab]" name="tearDown" is-config="true" duration-ms="857" started-at="2021-01-17T22:12:56 IST" finished-at="2021-01-17T22:12:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_radio_button -->
+      <class name="com.claimgenius.qa.testcases.BrokenLink">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.BrokenLink@bd8db5a]" name="setup" is-config="true" duration-ms="13356" started-at="2021-01-17T22:13:46 IST" finished-at="2021-01-17T22:13:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_broken_link_on_web_page()[pri:0, instance:com.claimgenius.qa.testcases.BrokenLink@bd8db5a]" name="verify_broken_link_on_web_page" duration-ms="45172" started-at="2021-01-17T22:13:59 IST" finished-at="2021-01-17T22:14:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_broken_link_on_web_page -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.BrokenLink@bd8db5a]" name="tearDown" is-config="true" duration-ms="847" started-at="2021-01-17T22:14:45 IST" finished-at="2021-01-17T22:14:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.BrokenLink -->
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_upload_button">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_upload_button@7a765367]" name="setup" is-config="true" duration-ms="14481" started-at="2021-01-17T22:12:21 IST" finished-at="2021-01-17T22:12:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_is_upload_button_active()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_upload_button@7a765367]" name="verify_is_upload_button_active" duration-ms="49" started-at="2021-01-17T22:12:36 IST" finished-at="2021-01-17T22:12:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_is_upload_button_active -->
+        <test-method status="PASS" signature="verify_user_able_to_upload_image()[pri:3, instance:com.claimgenius.qa.testcases.Test_cases_on_upload_button@7a765367]" name="verify_user_able_to_upload_image" duration-ms="5505" started-at="2021-01-17T22:12:36 IST" finished-at="2021-01-17T22:12:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_user_able_to_upload_image -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.claimgenius.qa.testcases.Test_cases_on_upload_button@7a765367]" name="tearDown" is-config="true" duration-ms="1267" started-at="2021-01-17T22:12:41 IST" finished-at="2021-01-17T22:12:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_upload_button -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

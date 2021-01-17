@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.claimgenius.qa.testcases.Test_cases_on_check_box">
+        <methods>
+          <include name="get_label_of_checkboxes_and_check_on_checkbox_label_with_Automation_Tester"/>
+          <include name="setup"/>
+          <include name="get_label_of_checkboxes_present_on_webpage"/>
+          <include name="verify_checkboxes_labeled_with_profession_are_present_on_webpage"/>
+          <include name="verify_checkboxe_labeled_with_Manual_Tester_is_selected"/>
+          <include name="verify_checkboxes_labeled_with_profession_are_active_on_webpage"/>
+        </methods>
+      </class> <!-- com.claimgenius.qa.testcases.Test_cases_on_check_box -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

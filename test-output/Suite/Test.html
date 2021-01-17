@@ -1,0 +1,219 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>28/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Jan 17 22:11:43 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>182 seconds (182235 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_radio_button.get_labe_of_each_radio_button()'><b>get_labe_of_each_radio_button</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_radio_button</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_radio_button.get_labe_of_each_radio_button_and_select_specific_one()'><b>get_labe_of_each_radio_button_and_select_specific_one</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_radio_button</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_check_box.get_label_of_checkboxes_and_check_on_checkbox_label_with_Automation_Tester()'><b>get_label_of_checkboxes_and_check_on_checkbox_label_with_Automation_Tester</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_check_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_check_box.get_label_of_checkboxes_present_on_webpage()'><b>get_label_of_checkboxes_present_on_webpage</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_check_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_multi_select_box.get_name_of_each_command_of_total_count_present_in_selectbox_labeled_with_Selenium_Commands()'><b>get_name_of_each_command_of_total_count_present_in_selectbox_labeled_with_Selenium_Commands</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_multi_select_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_dropdown.get_name_of_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents()'><b>get_name_of_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_dropdown</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_dropdown.get_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents()'><b>get_total_counts_of_Continents_present_in_selectbox_labeled_with_Continents</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_dropdown</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_multi_select_box.get_total_counts_of_commands_present_in_selectbox_labeled_with_Selenium_Commands()'><b>get_total_counts_of_commands_present_in_selectbox_labeled_with_Selenium_Commands</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_multi_select_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_dropdown.select_any_particular_Continent_present_in_selectbox_labeled_with_Continents()'><b>select_any_particular_Continent_present_in_selectbox_labeled_with_Continents</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_dropdown</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_multi_select_box.select_any_particular_command_present_in_multiselectbox_labeled_with_Seenium_commands()'><b>select_any_particular_command_present_in_multiselectbox_labeled_with_Seenium_commands</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_multi_select_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_multi_select_box.select_multiple_command_present_in_multiselectbox_labeled_with_Seenium_commands()'><b>select_multiple_command_present_in_multiselectbox_labeled_with_Seenium_commands</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_multi_select_box</td>
+<td></td>
+<td>2</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.BrokenLink.verify_broken_link_on_web_page()'><b>verify_broken_link_on_web_page</b><br>Test class: com.claimgenius.qa.testcases.BrokenLink</td>
+<td></td>
+<td>45</td>
+<td>com.claimgenius.qa.testcases.BrokenLink@bd8db5a</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_check_box.verify_checkboxe_labeled_with_Manual_Tester_is_selected()'><b>verify_checkboxe_labeled_with_Manual_Tester_is_selected</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_check_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_check_box.verify_checkboxes_labeled_with_profession_are_active_on_webpage()'><b>verify_checkboxes_labeled_with_profession_are_active_on_webpage</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_check_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_check_box@17d677df</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_upload_button.verify_is_upload_button_active()'><b>verify_is_upload_button_active</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_upload_button</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_upload_button@7a765367</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_multi_select_box.verify_multiselectbox_labeled_with_Selenium_Commands_is_Active()'><b>verify_multiselectbox_labeled_with_Selenium_Commands_is_Active</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_multi_select_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_multi_select_box.verify_multiselectbox_labeled_with_Selenium_Commands_is_present_on_webpage()'><b>verify_multiselectbox_labeled_with_Selenium_Commands_is_present_on_webpage</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_multi_select_box</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_multi_select_box@3043fe0e</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_radio_button.verify_radio_buttons_are_active_on_webpage()'><b>verify_radio_buttons_are_active_on_webpage</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_radio_button</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_dropdown.verify_selectbox_labeled_with_continents_is_active()'><b>verify_selectbox_labeled_with_continents_is_active</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_dropdown</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_dropdown.verify_selectbox_labeled_with_continents_is_present_on_webpage()'><b>verify_selectbox_labeled_with_continents_is_present_on_webpage</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_dropdown</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_dropdown@52feb982</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_textbox.verify_textbox_labeled_with_First_Name_is_enabled()'><b>verify_textbox_labeled_with_First_Name_is_enabled</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_textbox</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_textbox.verify_textbox_labeled_with_First_Name_is_present()'><b>verify_textbox_labeled_with_First_Name_is_present</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_textbox</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.DDT_Test_case_on_text_box.verify_user_able_to_enter_value_in_text_fields()'><b>verify_user_able_to_enter_value_in_text_fields</b><br>Test class: com.claimgenius.qa.testcases.DDT_Test_case_on_text_box<br>Parameters: Pratik, Hood</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.DDT_Test_case_on_text_box@78e67e0a</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_textbox.verify_user_able_to_enter_value_in_textbox_labeled_with_First_Name()'><b>verify_user_able_to_enter_value_in_textbox_labeled_with_First_Name</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_textbox<br>Parameters: Pratik</td>
+<td></td>
+<td>2</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_textbox.verify_user_able_to_re_enter_value_in_textbox_labeled_with_First_Name()'><b>verify_user_able_to_re_enter_value_in_textbox_labeled_with_First_Name</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_textbox<br>Parameters: Raj</td>
+<td></td>
+<td>3</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_textbox@34c4973</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_radio_button.verify_user_able_to_select_Radio_button_labeled_with_Female()'><b>verify_user_able_to_select_Radio_button_labeled_with_Female</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_radio_button</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_radio_button.verify_user_able_to_select_Radio_button_labeled_with_Male()'><b>verify_user_able_to_select_Radio_button_labeled_with_Male</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_radio_button</td>
+<td></td>
+<td>0</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_radio_button@76b0bfab</td></tr>
+<tr>
+<td title='com.claimgenius.qa.testcases.Test_cases_on_upload_button.verify_user_able_to_upload_image()'><b>verify_user_able_to_upload_image</b><br>Test class: com.claimgenius.qa.testcases.Test_cases_on_upload_button</td>
+<td></td>
+<td>5</td>
+<td>com.claimgenius.qa.testcases.Test_cases_on_upload_button@7a765367</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,401 @@
+2021-01-15 15:15:33,404 [main] INFO BaseClass - Initiate Browser
+2021-01-15 15:29:54,905 [main] INFO BaseClass - Launching Browser
+2021-01-15 17:04:10,056 [main] INFO BaseClass - Launching Browser
+2021-01-15 19:42:33,417 [main] INFO BaseClass - Firefox browser launched
+2021-01-15 20:27:54,289 [main] INFO BaseClass - Chrome browser launched
+2021-01-15 20:30:25,072 [main] INFO BaseClass - Chrome browser launched
+2021-01-15 21:56:56,737 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 12:10:56,030 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 12:18:17,164 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 12:18:57,944 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 12:20:55,914 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 12:26:14,217 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 14:08:41,682 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 14:17:38,440 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 14:28:39,941 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 14:29:40,345 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 16:24:02,912 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 16:50:15,473 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 16:50:39,462 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 17:05:32,782 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:05:49,332 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 17:05:49,475 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 17:07:27,802 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:07:43,259 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:09:56,618 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:14:17,020 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:16:53,655 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:17:40,369 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 17:18:49,777 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:26:01,819 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:27:31,023 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:32:33,466 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:34:33,456 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:35:28,408 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:38:06,556 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:40:02,959 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:47:08,930 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:47:54,682 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:48:06,211 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 18:48:06,379 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 18:49:14,819 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:49:25,130 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 18:49:25,288 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 18:53:06,346 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:53:49,940 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:54:01,843 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 18:54:01,980 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 18:55:29,365 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:55:39,594 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 18:55:40,256 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 18:57:52,551 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 18:58:03,458 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 18:58:03,719 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 19:00:15,065 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 19:00:25,434 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 19:00:25,573 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 19:03:55,064 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 19:04:06,741 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 19:04:06,918 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 19:55:44,320 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 19:55:59,011 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-16 19:55:59,241 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-16 19:56:30,397 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 19:56:43,712 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 19:56:43,946 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 19:56:56,711 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 19:57:09,883 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-16 19:57:10,064 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-16 19:57:16,187 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 19:57:47,450 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 21:55:23,330 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 21:57:49,136 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:02:20,646 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:02:31,417 [main] INFO BaseClass - Step 1
+2021-01-16 22:02:31,509 [main] INFO BaseClass - Step 2
+2021-01-16 22:02:31,626 [main] INFO BaseClass - Step 3
+2021-01-16 22:02:31,627 [main] INFO BaseClass - Step 4
+2021-01-16 22:08:21,806 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:19:14,460 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:22:44,520 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:25:36,453 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:26:45,277 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:29:37,996 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:31:34,456 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:33:33,682 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:34:27,318 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:35:35,661 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:37:16,368 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:37:27,569 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-16 22:37:27,621 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-16 22:42:26,831 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 22:42:39,128 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-16 22:42:39,275 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-16 23:35:59,887 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:37:48,871 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:40:46,581 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:42:03,302 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:42:14,895 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:44:02,882 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:44:14,341 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:47:17,676 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:47:29,112 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:50:45,134 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:50:55,983 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:50:56,038 [main] INFO BaseClass - clicked on upload button
+2021-01-16 23:52:40,424 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:52:52,759 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:53:26,172 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:53:38,330 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:54:43,055 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:54:55,160 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:57:11,035 [main] INFO BaseClass - Chrome browser launched
+2021-01-16 23:57:20,663 [main] INFO BaseClass - Going to click on upload button
+2021-01-16 23:57:20,708 [main] INFO BaseClass - clicked on upload button
+2021-01-17 10:52:22,601 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 10:56:27,808 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:05:04,298 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:05:16,822 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:09:32,813 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:09:45,067 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:12:01,411 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:12:10,673 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:13:00,489 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:13:33,327 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:14:37,284 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:24:02,707 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:25:08,027 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:26:08,907 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:26:49,072 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:30:37,026 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:38:55,430 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:39:14,824 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:45:53,086 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:46:24,822 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:46:25,009 [main] INFO BaseClass - clicked on upload button
+2021-01-17 11:49:26,539 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:49:46,201 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:50:23,033 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:50:50,802 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:51:49,866 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:52:06,285 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:53:48,262 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:54:25,490 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 11:59:00,118 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 11:59:15,669 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 12:02:38,151 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:02:56,285 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 12:26:04,832 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:26:15,621 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 12:28:02,698 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:28:14,478 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 12:29:31,418 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:29:43,061 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 12:37:22,689 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:38:13,455 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:39:37,793 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:39:52,972 [main] INFO BaseClass - Going to click on upload button
+2021-01-17 12:44:58,172 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 12:45:08,558 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 12:45:08,779 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 13:01:04,575 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:01:17,936 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:01:17,937 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:02:03,462 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:02:13,587 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:02:13,587 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:04:16,389 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:04:31,865 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:04:31,866 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:04:32,894 [main] INFO BaseClass - Is radio button labeled with Male Available : true
+2021-01-17 13:04:32,894 [main] INFO BaseClass - Is radio button labeled with Female Available : true
+2021-01-17 13:05:34,684 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:05:56,459 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:05:56,460 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:05:56,640 [main] INFO BaseClass - Is radio button labeled with Male Available : true
+2021-01-17 13:05:56,641 [main] INFO BaseClass - Is radio button labeled with Female Available : true
+2021-01-17 13:10:20,474 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:10:29,394 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:10:29,394 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:10:29,574 [main] INFO BaseClass - Is radio button labeled with Male Available : true
+2021-01-17 13:10:29,575 [main] INFO BaseClass - Is radio button labeled with Female Available : true
+2021-01-17 13:10:29,952 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 13:12:41,794 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:12:53,354 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:12:53,355 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:12:53,578 [main] INFO BaseClass - Is radio button labeled with Male Available : true
+2021-01-17 13:12:53,579 [main] INFO BaseClass - Is radio button labeled with Female Available : true
+2021-01-17 13:12:54,063 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 13:15:28,564 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:15:39,183 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:15:39,184 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:15:39,364 [main] INFO BaseClass - Is radio button labeled with Male Available : true
+2021-01-17 13:15:39,365 [main] INFO BaseClass - Is radio button labeled with Female Available : true
+2021-01-17 13:15:39,594 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 13:15:39,806 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 13:17:03,259 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:17:13,905 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-17 13:17:14,019 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-17 13:17:27,212 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:17:37,600 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 13:17:42,719 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:17:53,914 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 13:17:53,964 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 13:17:58,389 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:18:22,093 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 13:18:22,094 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 13:18:22,324 [main] INFO BaseClass - Is radio button labeled with Male Available : true
+2021-01-17 13:18:22,324 [main] INFO BaseClass - Is radio button labeled with Female Available : true
+2021-01-17 13:18:22,590 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 13:18:22,787 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 13:18:26,814 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:18:50,210 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:53:46,062 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 13:57:06,440 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 14:10:20,389 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 14:10:29,475 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 14:11:43,404 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 14:11:53,371 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 14:12:48,605 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 14:13:03,824 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 14:13:03,911 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 16:20:45,098 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:20:59,913 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 16:21:00,051 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 16:21:00,051 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 16:21:00,219 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Available : true
+2021-01-17 16:21:00,219 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Available : true
+2021-01-17 16:24:36,218 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:24:49,411 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 16:24:49,534 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 16:24:49,535 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 16:24:49,792 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Available : true
+2021-01-17 16:24:49,792 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Available : true
+2021-01-17 16:26:32,531 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:26:47,156 [main] INFO BaseClass - Is user able to select checkbox labeled with automation Tester : true
+2021-01-17 16:27:28,176 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:27:42,944 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 16:27:43,091 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 16:27:43,091 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 16:27:43,362 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Available : true
+2021-01-17 16:27:43,362 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Available : true
+2021-01-17 16:28:27,536 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:28:41,571 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 16:28:41,730 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 16:28:41,730 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 16:28:41,996 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Available : true
+2021-01-17 16:28:41,996 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Available : true
+2021-01-17 16:52:41,129 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:52:51,884 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 16:52:51,956 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 16:54:19,202 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 16:54:30,432 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 16:54:30,503 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 17:03:36,342 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 17:05:13,531 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 17:14:40,994 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 17:21:53,543 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 17:30:16,523 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 17:36:37,227 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 17:42:33,679 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 19:52:20,377 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 19:54:45,818 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 19:59:44,861 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 20:00:44,036 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 20:08:14,935 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 20:27:11,103 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 20:33:12,882 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:01:55,842 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:02:05,793 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-17 21:02:05,935 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-17 21:02:18,581 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:02:30,134 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 21:02:30,165 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:02:36,167 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:02:54,731 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:03:06,702 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:03:21,728 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 21:03:21,728 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 21:03:22,086 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 21:03:22,315 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 21:03:38,723 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:03:57,738 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 21:03:57,739 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 21:03:57,939 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 21:04:07,207 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:04:42,850 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 21:04:43,113 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 21:04:57,329 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:05:59,904 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:27:19,062 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:27:28,592 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-17 21:27:28,723 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-17 21:27:40,490 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:27:50,840 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 21:27:50,875 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:27:55,951 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:28:08,221 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:28:19,646 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:28:31,840 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 21:28:31,840 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 21:28:32,024 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 21:28:32,212 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 21:28:36,777 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:28:49,220 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 21:28:49,220 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 21:28:49,375 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 21:28:55,138 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:29:07,464 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 21:29:07,841 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 21:29:16,095 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:29:30,936 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:34:22,100 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:34:32,949 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-17 21:34:33,126 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-17 21:34:45,220 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:34:54,880 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 21:34:54,920 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:35:00,479 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:35:13,405 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:35:24,468 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:35:36,660 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 21:35:36,660 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 21:35:36,831 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 21:35:37,005 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 21:35:41,717 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:35:57,993 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 21:35:57,994 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 21:35:58,276 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 21:36:03,836 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:36:14,171 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 21:36:14,195 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 21:36:23,132 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:36:42,100 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:56:44,462 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:56:55,273 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-17 21:56:55,411 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-17 21:57:08,041 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:57:17,424 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 21:57:17,464 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:57:24,519 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:57:36,928 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 21:57:49,577 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:58:00,836 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 21:58:00,837 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 21:58:01,045 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 21:58:01,231 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 21:58:06,146 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:58:17,284 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 21:58:17,284 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 21:58:17,438 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 21:58:22,509 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:58:33,617 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 21:58:33,654 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 21:58:42,687 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 21:59:00,171 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:01:49,710 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:02:02,989 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 22:02:02,989 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 22:02:04,002 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 22:02:04,208 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 22:02:10,119 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:02:23,646 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 22:02:23,646 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 22:02:24,265 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 22:08:15,233 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:08:27,392 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 22:08:27,392 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 22:08:27,573 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 22:08:27,763 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 22:08:32,373 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:10:25,922 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:10:35,592 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 22:10:35,593 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 22:10:35,809 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 22:10:35,976 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 22:10:40,473 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:10:49,179 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 22:10:49,180 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 22:10:49,405 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 22:11:48,334 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:11:58,084 [main] INFO BaseClass - Is Textbox labeled with First Name Active : true
+2021-01-17 22:11:58,234 [main] INFO BaseClass - Is Textbox labeled with First Name Available : true
+2021-01-17 22:12:10,309 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:12:19,803 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Available : true
+2021-01-17 22:12:19,841 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 22:12:26,102 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:12:36,211 [main] INFO BaseClass - Is multiselect dropdown labeled with continents Active : true
+2021-01-17 22:12:46,380 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:12:56,200 [main] INFO BaseClass - Is radio button labeled with Male Active : true
+2021-01-17 22:12:56,201 [main] INFO BaseClass - Is radio button labeled with Female Active : true
+2021-01-17 22:12:56,530 [main] INFO BaseClass - Is user able to select Radio button labeled with Male : true
+2021-01-17 22:12:56,708 [main] INFO BaseClass - Is user able to select Radio button labeled with Female : true
+2021-01-17 22:13:01,220 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:13:10,798 [main] INFO BaseClass - Is checkbox labeled with Manual Tester Active : true
+2021-01-17 22:13:10,798 [main] INFO BaseClass - Is checkbox labeled with Automation Tester Active : true
+2021-01-17 22:13:11,073 [main] INFO BaseClass - Is user able to select checkbox labeled with Manual Tester : true
+2021-01-17 22:13:16,175 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:13:26,242 [main] INFO BaseClass - Is multiselectbox labeled with Selenium Commands is present on webpage : true
+2021-01-17 22:13:26,273 [main] INFO BaseClass - IS multiselectbox labeled with Selenium Commands is Active : true
+2021-01-17 22:13:34,729 [main] INFO BaseClass - Chrome browser launched
+2021-01-17 22:13:51,205 [main] INFO BaseClass - Chrome browser launched

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.claimGenius.qa.util.Reporting" />
+	</listeners>
+
+	<test name="Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			   <class name="com.claimgenius.qa.testcases.Test_cases_on_textbox" /> 
+			   <class name="com.claimgenius.qa.testcases.Test_cases_on_dropdown" /> 
+			   <class name="com.claimgenius.qa.testcases.Test_cases_on_upload_button" /> 
+			   <class name="com.claimgenius.qa.testcases.Test_cases_on_radio_button" />  
+			   <class name="com.claimgenius.qa.testcases.Test_cases_on_check_box" /> 
+			   <class name="com.claimgenius.qa.testcases.Test_cases_on_multi_select_box" /> 
+			   <class name="com.claimgenius.qa.testcases.DDT_Test_case_on_text_box" />
+			<class name="com.claimgenius.qa.testcases.BrokenLink" /> 
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
